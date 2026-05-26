@@ -11,6 +11,10 @@ FreshGo is a simple grocery delivery mobile app UI designed for a UI/UX internsh
 - Product details page
 - Add to Cart functionality
 
+## Live Prototype
+Click below to view working prototype
+[https://www.figma.com/proto/ZBmBaAECrJmNtMZQ9s1MuN/splash-screen?node-id=1-2&t=WNfnfEzgJDx4IC97-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2]
+
 ## Tools Used
 - Figma
 
